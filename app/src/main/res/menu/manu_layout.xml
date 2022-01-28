@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+
+        android:id="@+id/share"
+        android:title="share"
+        app:showAsAction="always"
+        android:icon="@drawable/share"
+        />
+
+    <item
+
+        android:id="@+id/feedback"
+        android:title="Feedback"
+        app:showAsAction="never"
+        />
+    <item
+
+        android:id="@+id/about"
+        android:title="About us"
+        app:showAsAction="never"
+        />
+    <item
+
+        android:id="@+id/rate"
+        android:title="Rate this app"
+        app:showAsAction="never"
+        />
+
+
+
+</menu>

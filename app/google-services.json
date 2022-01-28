@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260474572116",
+    "project_id": "ipl-2021-75f40",
+    "storage_bucket": "ipl-2021-75f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260474572116:android:3ba2627dec5b85ee5e0cc1",
+        "android_client_info": {
+          "package_name": "com.pushpal.ipl2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260474572116-jt7j8ceae35i6avau9otpgocm3nkk7c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU_JXwsRVfeDSrQ6rYPgRSV6o6BjZWYUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260474572116-jt7j8ceae35i6avau9otpgocm3nkk7c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

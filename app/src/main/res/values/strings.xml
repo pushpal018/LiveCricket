@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IPL 2021</string>
+    <string name="fixtures">Fixtures</string>
+    <string name="live_radio">Live Radio</string>
+    <string name="team_and_player">Team And Player</string>
+    <string name="point_table">Point Table</string>
+    <string name="live_tv">Live Tv</string>
+    <string name="enter_your_email">enter_your_email</string>
+    <string name="enter_your_feedback">enter_your_feedback</string>
+    <string name="sent">sent</string>
+    <string name="clear">clear</string>
+
+    <string name="about_us">
+
+        আশা করি আপনার কাছে এই অ্যাপটি অনেক ভালো লাগবে। আমার অ্যাপটিকে ৫ * স্টার রেটিং দিয়ে আরও অনুপ্রেরণা দিবেন আর সেইসাথে ফেসবুক, গুগল প্লাস এ অ্যাপটি শেয়ার করে আমাকে উৎসাহিত করবেন। আর হ্যাঁ আমার সাথে থাকার জন্য আপনাকে অসংখ্য ধন্যবাদ ।\n\n\n
+
+       \nAny Suggestion :\n
+       My Email : pushpal.aust@gmail.com
+
+    </string>
+    <string name="play">play</string>
+</resources>

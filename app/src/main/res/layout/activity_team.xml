@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="@drawable/iplback"
+    tools:context=".Team">
+
+
+    <com.google.android.ads.nativetemplates.TemplateView
+        android:id="@+id/nativeTemplateView"
+        android:visibility= "gone"
+        app:gnt_template_type="@layout/gnt_small_template_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Teams And Players"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center"
+        android:textColor="#fff"
+        android:layout_marginBottom="40dp"/>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+
+        <Button
+            android:id="@+id/csk"
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/buttonshape"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:textSize="20sp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="10dp"
+            android:drawableLeft="@drawable/cskl"
+            android:text="CSK"
+
+            />
+        <Button
+            android:id="@+id/dc"
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/buttonshape"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:textSize="20sp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="10dp"
+            android:drawableLeft="@drawable/dellil"
+            android:text="DC"
+
+            />
+        <Button
+            android:id="@+id/kkr"
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/buttonshape"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:textSize="20sp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="10dp"
+            android:drawableLeft="@drawable/kolkatal"
+            android:text="KKR"
+
+            />
+        <Button
+            android:id="@+id/mi"
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/buttonshape"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:textSize="20sp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="10dp"
+            android:drawableLeft="@drawable/mumbai"
+            android:text="MI"
+
+            />
+        <Button
+            android:id="@+id/kxip"
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/buttonshape"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:textSize="20sp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="10dp"
+            android:drawableLeft="@drawable/panjabl"
+            android:text="KXIP"
+
+            />
+        <Button
+            android:id="@+id/rcb"
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/buttonshape"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:textSize="20sp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="10dp"
+            android:drawableLeft="@drawable/royell"
+            android:text="RCB"
+
+            />
+        <Button
+            android:id="@+id/srh"
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/buttonshape"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:textSize="20sp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="10dp"
+            android:drawableLeft="@drawable/sunl"
+            android:text="SRH"
+
+            />
+        <Button
+            android:id="@+id/rr"
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/buttonshape"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:textSize="20sp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="10dp"
+            android:drawableLeft="@drawable/rrl"
+            android:text="RR"
+            />
+    </LinearLayout>
+</ScrollView>
+
+</LinearLayout>
